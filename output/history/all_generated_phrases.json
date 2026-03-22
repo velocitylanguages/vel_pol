@@ -299,7 +299,37 @@
       "polish": "Wytrwałość, wygrywa grę.",
       "category": "Strength",
       "generated_at": "2026-03-22T05:35:04.968239"
+    },
+    {
+      "english": "Be kind, always.",
+      "polish": "Bądź miły, zawsze.",
+      "category": "Kindness",
+      "generated_at": "2026-03-22T14:05:01.041016"
+    },
+    {
+      "english": "Your smile, it brightens.",
+      "polish": "Twój uśmiech, rozjaśnia.",
+      "category": "Kindness",
+      "generated_at": "2026-03-22T14:05:01.041022"
+    },
+    {
+      "english": "Help others, freely.",
+      "polish": "Pomagaj innym, śmiało.",
+      "category": "Kindness",
+      "generated_at": "2026-03-22T14:05:01.041023"
+    },
+    {
+      "english": "A gentle word, goes far.",
+      "polish": "Miłe słowo, działa cuda.",
+      "category": "Kindness",
+      "generated_at": "2026-03-22T14:05:01.041025"
+    },
+    {
+      "english": "Share joy, with friends.",
+      "polish": "Dziel się radością, z przyjaciółmi.",
+      "category": "Kindness",
+      "generated_at": "2026-03-22T14:05:01.041026"
     }
   ],
-  "last_updated": "2026-03-22T05:35:04.968241"
+  "last_updated": "2026-03-22T14:05:01.041027"
 }
