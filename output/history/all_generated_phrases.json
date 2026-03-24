@@ -509,7 +509,37 @@
       "polish": "Błędy uczą, więc się ucz.",
       "category": "Wisdom",
       "generated_at": "2026-03-23T23:05:12.952258"
+    },
+    {
+      "english": "Good things, take time.",
+      "polish": "Dobre rzeczy, potrzebują czasu.",
+      "category": "Patience",
+      "generated_at": "2026-03-24T05:40:27.850059"
+    },
+    {
+      "english": "Just breathe, and wait.",
+      "polish": "Po prostu oddychaj, i czekaj.",
+      "category": "Patience",
+      "generated_at": "2026-03-24T05:40:27.850071"
+    },
+    {
+      "english": "One day at a time.",
+      "polish": "Jeden dzień, po kolei.",
+      "category": "Patience",
+      "generated_at": "2026-03-24T05:40:27.850073"
+    },
+    {
+      "english": "Trust the process, slowly.",
+      "polish": "Zaufaj procesowi, powoli.",
+      "category": "Patience",
+      "generated_at": "2026-03-24T05:40:27.850074"
+    },
+    {
+      "english": "Your turn will come.",
+      "polish": "Twój czas, nadejdzie.",
+      "category": "Patience",
+      "generated_at": "2026-03-24T05:40:27.850075"
     }
   ],
-  "last_updated": "2026-03-23T23:05:12.952260"
+  "last_updated": "2026-03-24T05:40:27.850080"
 }
