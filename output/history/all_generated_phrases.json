@@ -629,7 +629,37 @@
       "polish": "Próbuj znowu, zawsze.",
       "category": "Perseverance",
       "generated_at": "2026-03-25T20:57:57.426325"
+    },
+    {
+      "english": "Learn Polish, day by day.",
+      "polish": "Ucz się polskiego, dzień po dniu.",
+      "category": "Success",
+      "generated_at": "2026-03-25T23:53:01.312831"
+    },
+    {
+      "english": "Speak Polish, with a smile.",
+      "polish": "Mów po polsku, z uśmiechem.",
+      "category": "Success",
+      "generated_at": "2026-03-25T23:53:01.312838"
+    },
+    {
+      "english": "Progress now, is progress always.",
+      "polish": "Postęp teraz, to postęp zawsze.",
+      "category": "Success",
+      "generated_at": "2026-03-25T23:53:01.312840"
+    },
+    {
+      "english": "Understand more, speak better.",
+      "polish": "Rozumiej więcej, mów lepiej.",
+      "category": "Success",
+      "generated_at": "2026-03-25T23:53:01.312841"
+    },
+    {
+      "english": "Your Polish, is growing.",
+      "polish": "Twój polski, rośnie w siłę.",
+      "category": "Success",
+      "generated_at": "2026-03-25T23:53:01.312842"
     }
   ],
-  "last_updated": "2026-03-25T20:57:57.426327"
+  "last_updated": "2026-03-25T23:53:01.312844"
 }
