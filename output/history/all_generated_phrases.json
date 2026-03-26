@@ -689,7 +689,37 @@
       "polish": "Po prostu, idealnie!",
       "category": "Joy",
       "generated_at": "2026-03-26T19:40:53.455216"
+    },
+    {
+      "english": "Learn a little, each day.",
+      "polish": "Ucz się, trochę, każdego dnia.",
+      "category": "Growth",
+      "generated_at": "2026-03-26T23:00:20.984245"
+    },
+    {
+      "english": "Mistakes, help you grow.",
+      "polish": "Błędy, pomagają, rosnąć.",
+      "category": "Growth",
+      "generated_at": "2026-03-26T23:00:20.984254"
+    },
+    {
+      "english": "Practice, makes perfect.",
+      "polish": "Praktyka, czyni, mistrza.",
+      "category": "Growth",
+      "generated_at": "2026-03-26T23:00:20.984256"
+    },
+    {
+      "english": "Listen, and you'll learn.",
+      "polish": "Słuchaj, a się nauczysz.",
+      "category": "Growth",
+      "generated_at": "2026-03-26T23:00:20.984257"
+    },
+    {
+      "english": "Speak, even if shy.",
+      "polish": "Mów, nawet, gdy się boisz.",
+      "category": "Growth",
+      "generated_at": "2026-03-26T23:00:20.984258"
     }
   ],
-  "last_updated": "2026-03-26T19:40:53.455218"
+  "last_updated": "2026-03-26T23:00:20.984259"
 }
