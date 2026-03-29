@@ -1019,7 +1019,37 @@
       "polish": "Twoja wewnętrzna siła, rośnie.",
       "category": "Hope",
       "generated_at": "2026-03-29T06:02:09.587539"
+    },
+    {
+      "english": "Your next step, opens a new door.",
+      "polish": "Twój następny krok, otwiera nowe drzwi.",
+      "category": "Success",
+      "generated_at": "2026-03-29T14:56:40.285598"
+    },
+    {
+      "english": "The current is pulling you forward.",
+      "polish": "Prąd Cię niesie do przodu.",
+      "category": "Success",
+      "generated_at": "2026-03-29T14:56:40.285607"
+    },
+    {
+      "english": "Plant a seed, watch it grow.",
+      "polish": "Zasadź ziarno, obserwuj jak rośnie.",
+      "category": "Success",
+      "generated_at": "2026-03-29T14:56:40.285608"
+    },
+    {
+      "english": "Today’s small effort, builds tomorrow.",
+      "polish": "Dzisiejszy mały wysiłek, buduje jutro.",
+      "category": "Success",
+      "generated_at": "2026-03-29T14:56:40.285609"
+    },
+    {
+      "english": "Listen to the quiet hum, of progress.",
+      "polish": "Słuchaj cichego brzęczenia, postępu.",
+      "category": "Success",
+      "generated_at": "2026-03-29T14:56:40.285611"
     }
   ],
-  "last_updated": "2026-03-29T06:02:09.587540"
+  "last_updated": "2026-03-29T14:56:40.285612"
 }
