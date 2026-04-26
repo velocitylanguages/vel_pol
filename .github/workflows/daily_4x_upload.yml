@@ -1,4 +1,4 @@
-name: Velocity polish - Daily 5x Upload
+name: Velocity polish - Daily 4x Upload
 
 on:
   # Schedule 5 posts per day (American EST/EDT time)
