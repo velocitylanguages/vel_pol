@@ -7349,7 +7349,37 @@
       "polish": "Buduj ducha, cegła po cegle.",
       "category": "Strength",
       "generated_at": "2026-06-15T23:46:25.755491"
+    },
+    {
+      "english": "Even a strong wind, can't stop a persistent sapling.",
+      "polish": "Nawet silny wiatr, nie zatrzyma upartego drzewka.",
+      "category": "Perseverance",
+      "generated_at": "2026-06-16T06:23:46.369393"
+    },
+    {
+      "english": "Slowly, but surely, the river carves the stone.",
+      "polish": "Powoli, lecz pewnie, rzeka rzeźbi kamień.",
+      "category": "Perseverance",
+      "generated_at": "2026-06-16T06:23:46.369402"
+    },
+    {
+      "english": "One more try, builds a new path.",
+      "polish": "Jeszcze jedna próba, tworzy nową ścieżkę.",
+      "category": "Perseverance",
+      "generated_at": "2026-06-16T06:23:46.369403"
+    },
+    {
+      "english": "This struggle, is just a stepping stone.",
+      "polish": "Ta walka, to tylko kamień milowy.",
+      "category": "Perseverance",
+      "generated_at": "2026-06-16T06:23:46.369405"
+    },
+    {
+      "english": "Don't forget the view, after the climb.",
+      "polish": "Nie zapominaj o widoku, po wspinaczce.",
+      "category": "Perseverance",
+      "generated_at": "2026-06-16T06:23:46.369406"
     }
   ],
-  "last_updated": "2026-06-15T23:46:25.755493"
+  "last_updated": "2026-06-16T06:23:46.369407"
 }
