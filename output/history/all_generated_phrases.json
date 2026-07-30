@@ -1889,7 +1889,37 @@
       "polish": "Mogę uczyć się wolno, i rosnąć.",
       "category": "Confidence",
       "generated_at": "2026-07-30T17:21:08.656274"
+    },
+    {
+      "english": "Hear your breath, now, softly, again",
+      "polish": "Słysz oddech, teraz, cicho, znów",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-30T20:17:14.147246"
+    },
+    {
+      "english": "Feel your feet, on the floor, steady",
+      "polish": "Poczuj stopy, o podłogę, spokojnie",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-30T20:17:14.147254"
+    },
+    {
+      "english": "Let the mind pass, like clouds",
+      "polish": "Niech myśli mijają, jak chmury",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-30T20:17:14.147256"
+    },
+    {
+      "english": "Unclench your jaw, shoulders, slowly",
+      "polish": "Rozluźnij szczękę, ramiona, powoli",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-30T20:17:14.147257"
+    },
+    {
+      "english": "Name five colors, quietly, in view",
+      "polish": "Nazwij pięć kolorów, cicho, w zasięgu",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-30T20:17:14.147258"
     }
   ],
-  "last_updated": "2026-07-30T17:21:08.656275"
+  "last_updated": "2026-07-30T20:17:14.147260"
 }
