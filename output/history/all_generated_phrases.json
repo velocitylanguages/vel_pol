@@ -2279,7 +2279,37 @@
       "polish": "Zadaję jedno pytanie, i oddycham.",
       "category": "Confidence",
       "generated_at": "2026-08-03T04:23:19.422493"
+    },
+    {
+      "english": "Before breakfast, polish your mind a little, today.",
+      "polish": "Przed śniadaniem, wypoleruj umysł trochę, dziś.",
+      "category": "Motivation",
+      "generated_at": "2026-08-03T17:46:48.394936"
+    },
+    {
+      "english": "When you fall, dust off, then ask why.",
+      "polish": "Gdy upadniesz, otrzep kurz, i pytaj czemu.",
+      "category": "Motivation",
+      "generated_at": "2026-08-03T17:46:48.394947"
+    },
+    {
+      "english": "Your notebook waits, write one clear sentence.",
+      "polish": "Twój zeszyt czeka, zapisz jedno zdanie.",
+      "category": "Motivation",
+      "generated_at": "2026-08-03T17:46:48.394949"
+    },
+    {
+      "english": "Breathe, then read aloud, even softly.",
+      "polish": "Weź oddech, potem czytaj na głos, choć cicho.",
+      "category": "Motivation",
+      "generated_at": "2026-08-03T17:46:48.394950"
+    },
+    {
+      "english": "Small wins ring, like keys in your pocket.",
+      "polish": "Małe zwycięstwa dźwięczą, jak klucze w kieszeni.",
+      "category": "Motivation",
+      "generated_at": "2026-08-03T17:46:48.394951"
     }
   ],
-  "last_updated": "2026-08-03T04:23:19.422494"
+  "last_updated": "2026-08-03T17:46:48.394953"
 }
