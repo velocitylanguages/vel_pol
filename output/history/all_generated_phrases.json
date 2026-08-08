@@ -2819,7 +2819,37 @@
       "polish": "Wyłącz hałas, wybierz jedną rzecz.",
       "category": "Purpose",
       "generated_at": "2026-08-07T22:36:08.749690"
+    },
+    {
+      "english": "Feet on the floor, shoulders back, breathe.",
+      "polish": "Stopy na ziemi, plecy proste, wdech.",
+      "category": "Strength",
+      "generated_at": "2026-08-08T02:48:57.796613"
+    },
+    {
+      "english": "Drink water, then stretch, loosen your jaw.",
+      "polish": "Wypij wodę, potem rozciągnij, rozluźnij szczękę.",
+      "category": "Strength",
+      "generated_at": "2026-08-08T02:48:57.796622"
+    },
+    {
+      "english": "Lift with care, pause, count to three.",
+      "polish": "Unieś ostrożnie, zatrzymaj się, licz do trzech.",
+      "category": "Strength",
+      "generated_at": "2026-08-08T02:48:57.796623"
+    },
+    {
+      "english": "Grip the bar, exhale hard, stand tall.",
+      "polish": "Złap drążek, mocno wydech, wyprostuj się.",
+      "category": "Strength",
+      "generated_at": "2026-08-08T02:48:57.796624"
+    },
+    {
+      "english": "One set now, rest later, move calmly.",
+      "polish": "Jedna seria teraz, odpocznij później, spokojnie.",
+      "category": "Strength",
+      "generated_at": "2026-08-08T02:48:57.796626"
     }
   ],
-  "last_updated": "2026-08-07T22:36:08.749692"
+  "last_updated": "2026-08-08T02:48:57.796627"
 }
