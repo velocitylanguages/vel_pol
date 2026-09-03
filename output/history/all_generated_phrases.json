@@ -5909,7 +5909,37 @@
       "polish": "Język się rozgrzewa, powoli.",
       "category": "Confidence",
       "generated_at": "2026-09-03T05:18:06.140471"
+    },
+    {
+      "english": "Morning coffee, plans first, worries later.",
+      "polish": "Poranna kawa, plany najpierw, zmartwienia później.",
+      "category": "Joy",
+      "generated_at": "2026-09-03T19:02:56.442074"
+    },
+    {
+      "english": "I tidy my desk, my mind follows.",
+      "polish": "Porządkuję biurko, umysł idzie za mną.",
+      "category": "Joy",
+      "generated_at": "2026-09-03T19:02:56.442085"
+    },
+    {
+      "english": "Sun on my face, I smile softly.",
+      "polish": "Słońce na twarzy, cicho się uśmiecham.",
+      "category": "Joy",
+      "generated_at": "2026-09-03T19:02:56.442086"
+    },
+    {
+      "english": "Shoes on, I leave worries at home.",
+      "polish": "Buty na nogi, troski zostawiam w domu.",
+      "category": "Joy",
+      "generated_at": "2026-09-03T19:02:56.442087"
+    },
+    {
+      "english": "The kettle sings, my day wakes up.",
+      "polish": "Czajnik śpiewa, dzień się budzi.",
+      "category": "Joy",
+      "generated_at": "2026-09-03T19:02:56.442094"
     }
   ],
-  "last_updated": "2026-09-03T05:18:06.140472"
+  "last_updated": "2026-09-03T19:02:56.442096"
 }
