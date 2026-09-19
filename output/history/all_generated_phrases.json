@@ -7799,7 +7799,37 @@
       "polish": "Gdy gra muzyka, ramiona opadają",
       "category": "Happiness",
       "generated_at": "2026-09-19T05:15:40.667547"
+    },
+    {
+      "english": "Night ends, light returns, I wait kindly.",
+      "polish": "Noc mija, wraca światło, czekam życzliwie.",
+      "category": "Hope",
+      "generated_at": "2026-09-19T18:21:41.002065"
+    },
+    {
+      "english": "Today hurts, I breathe, tomorrow opens a door.",
+      "polish": "Dzisiaj boli, oddycham, jutro otwiera drzwi.",
+      "category": "Hope",
+      "generated_at": "2026-09-19T18:21:41.002074"
+    },
+    {
+      "english": "In the queue, patience grows, hope comes next.",
+      "polish": "W kolejce rośnie cierpliwość, nadzieja przychodzi potem.",
+      "category": "Hope",
+      "generated_at": "2026-09-19T18:21:41.002076"
+    },
+    {
+      "english": "I fold my fear, then I walk on.",
+      "polish": "Zwijam strach, potem idę dalej.",
+      "category": "Hope",
+      "generated_at": "2026-09-19T18:21:41.002077"
+    },
+    {
+      "english": "A quiet cup steams, hope warms my hands.",
+      "polish": "Cicha filiżanka paruje, nadzieja grzeje dłonie.",
+      "category": "Hope",
+      "generated_at": "2026-09-19T18:21:41.002078"
     }
   ],
-  "last_updated": "2026-09-19T05:15:40.667549"
+  "last_updated": "2026-09-19T18:21:41.002080"
 }
