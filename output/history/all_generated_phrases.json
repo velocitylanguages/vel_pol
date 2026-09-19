@@ -7859,7 +7859,37 @@
       "polish": "Nalej wodę, zatrzymaj się, niech osiada.",
       "category": "Balance",
       "generated_at": "2026-09-19T21:21:46.729434"
+    },
+    {
+      "english": "Wait calmly, the storm passes.",
+      "polish": "Czekaj spokojnie, burza mija.",
+      "category": "Patience",
+      "generated_at": "2026-09-19T23:56:13.557068"
+    },
+    {
+      "english": "Pause, let the answer rise.",
+      "polish": "Zatrzymaj się, niech przyjdzie odpowiedź.",
+      "category": "Patience",
+      "generated_at": "2026-09-19T23:56:13.557078"
+    },
+    {
+      "english": "Breathe, time softens hard days.",
+      "polish": "Oddychaj, czas łagodzi trudne dni.",
+      "category": "Patience",
+      "generated_at": "2026-09-19T23:56:13.557080"
+    },
+    {
+      "english": "Let your thoughts cool, then decide.",
+      "polish": "Niech myśli ostygną, potem zdecyduj.",
+      "category": "Patience",
+      "generated_at": "2026-09-19T23:56:13.557080"
+    },
+    {
+      "english": "Delay the rush, roads unfold slowly.",
+      "polish": "Zwolnij, drogi rozkładają się powoli.",
+      "category": "Patience",
+      "generated_at": "2026-09-19T23:56:13.557081"
     }
   ],
-  "last_updated": "2026-09-19T21:21:46.729436"
+  "last_updated": "2026-09-19T23:56:13.557083"
 }
