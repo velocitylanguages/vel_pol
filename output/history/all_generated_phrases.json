@@ -9779,7 +9779,37 @@
       "polish": "Ćwiczę mówić, „może”, bez strachu.",
       "category": "Confidence",
       "generated_at": "2026-10-06T00:41:30.664366"
+    },
+    {
+      "english": "Wait, the kettle knows its time.",
+      "polish": "Poczekaj, czajnik zna swój czas.",
+      "category": "Patience",
+      "generated_at": "2026-10-06T02:05:34.347479"
+    },
+    {
+      "english": "Breathe slowly, rain arrives on schedule.",
+      "polish": "Oddychaj wolno, deszcz przyjdzie według planu.",
+      "category": "Patience",
+      "generated_at": "2026-10-06T02:05:34.347490"
+    },
+    {
+      "english": "Hold your coat, winter passes quietly.",
+      "polish": "Trzymaj płaszcz, zima mija cicho.",
+      "category": "Patience",
+      "generated_at": "2026-10-06T02:05:34.347492"
+    },
+    {
+      "english": "Let the road unfold, one corner at a time.",
+      "polish": "Niech droga się rozwinie, krok po kroku.",
+      "category": "Patience",
+      "generated_at": "2026-10-06T02:05:34.347493"
+    },
+    {
+      "english": "Listen, the tram comes when it can.",
+      "polish": "Słuchaj, tramwaj przyjedzie, kiedy zechce.",
+      "category": "Patience",
+      "generated_at": "2026-10-06T02:05:34.347494"
     }
   ],
-  "last_updated": "2026-10-06T00:41:30.664368"
+  "last_updated": "2026-10-06T02:05:34.347496"
 }
