@@ -11639,7 +11639,42 @@
       "polish": "Pociąg czeka, ćwiczysz dla niego.",
       "category": "Success",
       "generated_at": "2026-10-21T05:30:53.146242"
+    },
+    {
+      "english": "Morning light, let your thoughts unclench.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-24T13:51:36.472042",
+      "polish": "Poranne światło, odpuść spięte myśli.",
+      "pronunciation": "Po-RAN-ne SHYAET-wo, o-DPUŚĆ spy-NTE my-SHL'i"
+    },
+    {
+      "english": "Before coffee, listen to your inner sunrise.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-24T13:51:36.472055",
+      "polish": "Zanim kawa, posłuchaj wewnętrznego świtu.",
+      "pronunciation": "ZAN-im KA-va, pos-U-CHAY VYE-NN-YERZ-nego SHVEE-tu"
+    },
+    {
+      "english": "First thought, soften, like daylight on curtains.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-24T13:51:36.472060",
+      "polish": "Pierwsza myśl, zmiękcz, jak światło na firankach.",
+      "pronunciation": "PYERV-sha my-SHL', zmi-EKCH, yak SHYAET-wo na FI-ran-kach"
+    },
+    {
+      "english": "Open your eyes, and breathe slowly once.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-24T13:51:36.472062",
+      "polish": "Otwórz oczy, weź jeden spokojny oddech.",
+      "pronunciation": "O-tvoRZ O-chi, VZYE od-JEN spo-KOY-ny OOD-dekh"
+    },
+    {
+      "english": "Light on the wall, name what matters.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-24T13:51:36.472063",
+      "polish": "Światło na ścianie, nazwij to, co ważne.",
+      "pronunciation": "SHYAET-wo na SHCHY-a-NYE, NAZ-vyitch to, TSO VAZh-ne"
     }
   ],
-  "last_updated": "2026-10-21T05:30:53.146244"
+  "last_updated": "2026-10-24T13:51:36.472066"
 }
