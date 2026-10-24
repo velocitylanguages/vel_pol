@@ -126,9 +126,9 @@ jobs:
           echo "TIMEZONE_OFFSET_HOURS=-5" >> .env
           echo "✅ .env file created"
 
-      - name: 🎬 Generate French Learning Reel
+      - name: 🎬 Generate Polish Learning Reel
         run: |
-          echo "🚀 Starting Velocity French content generation..."
+          echo "🚀 Starting Velocity Polish content generation..."
           python facebook_reels_automation.py
           echo "✅ Content generation complete!"
           echo ""
@@ -148,7 +148,7 @@ jobs:
         uses: actions/upload-artifact@v4
         if: always()
         with:
-          name: velocity-french-reel-${{ github.run_number }}
+          name: velocity-polish-reel-${{ github.run_number }}
           path: |
             output/video/*/final_reel.mp4
             output/video/*/metadata.json
