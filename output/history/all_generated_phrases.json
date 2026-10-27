@@ -12164,7 +12164,42 @@
       "generated_at": "2026-10-27T01:40:47.904436",
       "polish": "Znasz most, słowa same się pojawią.",
       "pronunciation": "znahs h mohst, SWO-va ah-meh syey poh-yah-vee-ah"
+    },
+    {
+      "english": "A sharp spark, I move anyway.",
+      "category": "Confidence",
+      "generated_at": "2026-10-27T14:59:49.210991",
+      "polish": "Wtedy zaiskrzyło, i ruszam mimo to.",
+      "pronunciation": "Wtedy zaiskrzyło, i ruszam mimo to"
+    },
+    {
+      "english": "Breathing in, bravery breaks through.",
+      "category": "Confidence",
+      "generated_at": "2026-10-27T14:59:49.211004",
+      "polish": "Wdech, i odwaga pęka jak zamek.",
+      "pronunciation": "Wdech, i odwaga pęka jak zamek"
+    },
+    {
+      "english": "My fear blinks, I step forward.",
+      "category": "Confidence",
+      "generated_at": "2026-10-27T14:59:49.211007",
+      "polish": "Strach mruga, ja robię krok.",
+      "pronunciation": "Strach mruga, ja robię krok"
+    },
+    {
+      "english": "For one second, I’m fearless.",
+      "category": "Confidence",
+      "generated_at": "2026-10-27T14:59:49.211009",
+      "polish": "Na sekundę jestem bez strachu.",
+      "pronunciation": "Na sekundę jestem bez strachu"
+    },
+    {
+      "english": "A bold gust, I answer first.",
+      "category": "Confidence",
+      "generated_at": "2026-10-27T14:59:49.211010",
+      "polish": "Podmuch odwagi, odpowiadam pierwsza.",
+      "pronunciation": "Podmuch odwagi, odpowiadam pierwsza"
     }
   ],
-  "last_updated": "2026-10-27T01:40:47.904439"
+  "last_updated": "2026-10-27T14:59:49.211012"
 }
