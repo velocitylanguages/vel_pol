@@ -12724,7 +12724,42 @@
       "generated_at": "2026-10-30T18:38:31.954533",
       "polish": "Odłóż wczoraj na półkę, delikatnie.",
       "pronunciation": "o-dwosh vcho-rai na po-fkeh, de-lli-kat-nyey"
+    },
+    {
+      "english": "I ask, not to win, but to listen.",
+      "category": "Balance",
+      "generated_at": "2026-10-30T21:08:11.209186",
+      "polish": "Pytam, nie by wygrać, lecz posłuchać.",
+      "pronunciation": "pitam, nie by vygrats, lecz posłuhatck"
+    },
+    {
+      "english": "What do you mean, exactly, by that?",
+      "category": "Balance",
+      "generated_at": "2026-10-30T21:08:11.209199",
+      "polish": "Co masz na myśli, dokładnie?",
+      "pronunciation": "co masz na myśli, dokłaadnie"
+    },
+    {
+      "english": "Before judging, I check the story.",
+      "category": "Balance",
+      "generated_at": "2026-10-30T21:08:11.209204",
+      "polish": "Zanim ocenię, sprawdzam fakty w historii.",
+      "pronunciation": "zanim otseňye, sprawdzam fakty v istorii"
+    },
+    {
+      "english": "Answer slowly, and I’ll think slower too.",
+      "category": "Balance",
+      "generated_at": "2026-10-30T21:08:11.209206",
+      "polish": "Odpowiadaj wolno, ja też zwolnię.",
+      "pronunciation": "odpowiadash volno, ya też zvonę"
+    },
+    {
+      "english": "I ask once, then I breathe.",
+      "category": "Balance",
+      "generated_at": "2026-10-30T21:08:11.209207",
+      "polish": "Zadaję jedno pytanie, potem oddycham.",
+      "pronunciation": "zadaję yone pytanie, potem odycham"
     }
   ],
-  "last_updated": "2026-10-30T18:38:31.954535"
+  "last_updated": "2026-10-30T21:08:11.209209"
 }
