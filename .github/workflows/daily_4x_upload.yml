@@ -3,10 +3,6 @@ name: Velocity polish - Daily 4x Upload
 on:
   # Schedule 5 posts per day (American EST/EDT time)
   schedule:
-    - cron: '45 8 * * *'   # 9:45 AM CET / 4:45 AM EDT
-    - cron: '15 13 * * *'  # 2:15 PM CET / 9:15 AM EDT
-    - cron: '45 16 * * *'  # 5:45 PM CET / 12:45 PM EDT
-    - cron: '15 20 * * *'  # 9:15 PM CET / 4:15 PM EDT
     - cron: '45 22 * * *'  # 11:45 PM CET / 6:45 PM EDT
 
   # Allow manual trigger for testing
