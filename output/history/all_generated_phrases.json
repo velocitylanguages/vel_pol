@@ -13634,7 +13634,42 @@
       "transliteration": "Spróbuję jeszcze raz, z życzliwością.",
       "category": "Confidence",
       "generated_at": "2026-11-10T22:13:51.712596"
+    },
+    {
+      "english": "I forgive you, and I move forward.",
+      "polish": "Wybaczam ci, i idę dalej.",
+      "transliteration": "Vy-batsam tsih, i idę da-ley.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-11T00:19:42.080447"
+    },
+    {
+      "english": "I’m letting it go, slowly now.",
+      "polish": "Puścę to, powoli teraz.",
+      "transliteration": "Pus'cze to, po-vo-ly te-raz.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-11T00:19:42.080460"
+    },
+    {
+      "english": "I release the anger, I keep calm.",
+      "polish": "Odpuszczam złość, zostaję spokojny.",
+      "transliteration": "Od-pus-tsha-m zlost', zho-sta-yem spo-ko-ny.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-11T00:19:42.080461"
+    },
+    {
+      "english": "I choose forgiveness, not harder words.",
+      "polish": "Wybieram wybaczenie, nie twardsze słowa.",
+      "transliteration": "Vy-byeyram vy-ba-tse-nye, ne tvardshe slo-va.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-11T00:19:42.080462"
+    },
+    {
+      "english": "You did hurt me, I forgive anyway.",
+      "polish": "Bolało mnie, i tak wybaczam.",
+      "transliteration": "Bo-la-ło mne, i tak vy-ba-czam.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-11T00:19:42.080463"
     }
   ],
-  "last_updated": "2026-11-10T22:13:51.712597"
+  "last_updated": "2026-11-11T00:19:42.080464"
 }
