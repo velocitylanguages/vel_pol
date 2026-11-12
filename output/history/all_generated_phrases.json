@@ -13844,7 +13844,42 @@
       "transliteration": "Podnoś nogami, nie plecamy.",
       "category": "Strength",
       "generated_at": "2026-11-12T01:45:00.981273"
+    },
+    {
+      "english": "Be patient, things catch up slowly.",
+      "polish": "Bądź cierpliwy, wszystko nadrobi powoli.",
+      "transliteration": "budź tšyer-pli-vee, fszystko nadrobi powo-lee",
+      "category": "Patience",
+      "generated_at": "2026-11-12T05:26:41.055123"
+    },
+    {
+      "english": "Wait a bit, then try again.",
+      "polish": "Poczekaj chwilę, potem spróbuj jeszcze raz.",
+      "transliteration": "po-čekai tšhwil-ye, potem spro-buj jesz-che raz",
+      "category": "Patience",
+      "generated_at": "2026-11-12T05:26:41.055135"
+    },
+    {
+      "english": "Calm down, answers arrive in time.",
+      "polish": "Spokojnie, odpowiedzi przyjdą w swoim czasie.",
+      "transliteration": "spo-ko-jne, od-poviedzhi pry-jdą v svo-im tsa-sye",
+      "category": "Patience",
+      "generated_at": "2026-11-12T05:26:41.055138"
+    },
+    {
+      "english": "Hold on, your turn is coming.",
+      "polish": "Wytrzymaj, twoja kolejka idzie.",
+      "transliteration": "vye-trzhi-maj, tvo-ya koloika idzhe",
+      "category": "Patience",
+      "generated_at": "2026-11-12T05:26:41.055139"
+    },
+    {
+      "english": "Let it rest, no rush today.",
+      "polish": "Daj temu odpocząć, bez pośpiechu dziś.",
+      "transliteration": "daj te-mu od-poh-čatch, bez po-sphye-hu jish",
+      "category": "Patience",
+      "generated_at": "2026-11-12T05:26:41.055141"
     }
   ],
-  "last_updated": "2026-11-12T01:45:00.981276"
+  "last_updated": "2026-11-12T05:26:41.055143"
 }
