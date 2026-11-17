@@ -14789,7 +14789,42 @@
       "transliteration": "Nie jesteś w tyle, tylko w drodze.",
       "category": "Success",
       "generated_at": "2026-11-17T20:30:27.361495"
+    },
+    {
+      "english": "Be patient, the right moment arrives.",
+      "polish": "Bądź cierpliwy, właściwy moment nadejdzie.",
+      "transliteration": "budź tsyer-plii-vy vla-shi-vy mo-ment na-dei-dzhi",
+      "category": "Patience",
+      "generated_at": "2026-11-17T22:09:48.657263"
+    },
+    {
+      "english": "Let it take time, no panic.",
+      "polish": "Daj temu czas, bez paniki.",
+      "transliteration": "daj te-mu tsas, bez pa-ni-ki",
+      "category": "Patience",
+      "generated_at": "2026-11-17T22:09:48.657280"
+    },
+    {
+      "english": "Wait, everything will sort itself out.",
+      "polish": "Poczekaj, wszystko się ułoży.",
+      "transliteration": "po-chet-saj, wszy-stko sye u-wo-ży",
+      "category": "Patience",
+      "generated_at": "2026-11-17T22:09:48.657282"
+    },
+    {
+      "english": "Take your time, I’m here.",
+      "polish": "Zrób to spokojnie, jestem obok.",
+      "transliteration": "zrub to spo-ko-ynye, jestem o-bok",
+      "category": "Patience",
+      "generated_at": "2026-11-17T22:09:48.657284"
+    },
+    {
+      "english": "Chill out, your progress is real.",
+      "polish": "Spokojnie, twoje postępy są prawdziwe.",
+      "transliteration": "spo-koy-nye, two-ye posten-pi są pra-vdzy-vee",
+      "category": "Patience",
+      "generated_at": "2026-11-17T22:09:48.657285"
     }
   ],
-  "last_updated": "2026-11-17T20:30:27.361497"
+  "last_updated": "2026-11-17T22:09:48.657287"
 }
