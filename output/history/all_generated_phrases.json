@@ -14929,7 +14929,42 @@
       "transliteration": "Vybyeram yedną rzecz, łagodnie.",
       "category": "Balance",
       "generated_at": "2026-11-18T05:37:33.133966"
+    },
+    {
+      "english": "I drink tea, and smile quietly.",
+      "polish": "Piję herbatę, i cicho się uśmiecham.",
+      "transliteration": "py-yem yerba-tę, i chiho se usehm-eeham",
+      "category": "Joy",
+      "generated_at": "2026-11-18T20:02:20.088305"
+    },
+    {
+      "english": "I write one line, and breathe.",
+      "polish": "Piszę jedną linijkę, i oddycham.",
+      "transliteration": "pish-ye yed-ną li-nee-ke, i oddy-ham",
+      "category": "Joy",
+      "generated_at": "2026-11-18T20:02:20.088319"
+    },
+    {
+      "english": "The day feels kinder, step by step.",
+      "polish": "Dzień wydaje się łagodniejszy, krok po kroku.",
+      "transliteration": "zhen vydá-ye shye w-a-go-dnye-zhee, krok po kroku",
+      "category": "Joy",
+      "generated_at": "2026-11-18T20:02:20.088320"
+    },
+    {
+      "english": "I choose calm, even with noise.",
+      "polish": "Wybieram spokój, nawet gdy jest hałas.",
+      "transliteration": "vy-bye-ram spoh-koy, nawet gdy yest hwa-las",
+      "category": "Joy",
+      "generated_at": "2026-11-18T20:02:20.088321"
+    },
+    {
+      "english": "I take a breath, then answer.",
+      "polish": "Biorę wdech, potem odpowiadam.",
+      "transliteration": "by-or-ye vdekh, potem od-po-vy-a-dam",
+      "category": "Joy",
+      "generated_at": "2026-11-18T20:02:20.088323"
     }
   ],
-  "last_updated": "2026-11-18T05:37:33.133968"
+  "last_updated": "2026-11-18T20:02:20.088325"
 }
