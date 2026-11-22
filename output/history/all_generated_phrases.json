@@ -15629,7 +15629,42 @@
       "transliteration": "Wdycham spokojnie, a strach puszcza.",
       "category": "Hope",
       "generated_at": "2026-11-22T04:41:48.667771"
+    },
+    {
+      "english": "You’re learning, one small step at a time.",
+      "polish": "Uczysz się, małymi krokami każdego dnia.",
+      "transliteration": "Uczysh sie, malymi krokami kazdego dnia.",
+      "category": "Success",
+      "generated_at": "2026-11-22T19:06:40.499317"
+    },
+    {
+      "english": "Say it out loud, you’ll remember.",
+      "polish": "Powiedz na głos, zapamiętasz.",
+      "transliteration": "Powiedz na głos, zapamietasz.",
+      "category": "Success",
+      "generated_at": "2026-11-22T19:06:40.499336"
+    },
+    {
+      "english": "Make a plan, then just start.",
+      "polish": "Zrób plan, i po prostu zacznij.",
+      "transliteration": "Zrob plan, i po prostu zacznij.",
+      "category": "Success",
+      "generated_at": "2026-11-22T19:06:40.499338"
+    },
+    {
+      "english": "Even mistakes are useful, keep going.",
+      "polish": "Błędy są pomocne, idź dalej.",
+      "transliteration": "Blędy są pomocne, idz dalej.",
+      "category": "Success",
+      "generated_at": "2026-11-22T19:06:40.499340"
+    },
+    {
+      "english": "Practice quietly, consistency brings real results.",
+      "polish": "Ćwicz spokojnie, konsekwencja daje wyniki.",
+      "transliteration": "Ćwicz spokojnie, konsekwencja daje wyniki.",
+      "category": "Success",
+      "generated_at": "2026-11-22T19:06:40.499341"
     }
   ],
-  "last_updated": "2026-11-22T04:41:48.667773"
+  "last_updated": "2026-11-22T19:06:40.499344"
 }
