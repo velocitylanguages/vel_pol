@@ -15909,7 +15909,42 @@
       "transliteration": "Na-pisz do przy-ja-cie-la, bra-ku-je ci go.",
       "category": "Inspiration",
       "generated_at": "2026-11-24T03:13:33.984647"
+    },
+    {
+      "english": "Please, can I help you for a moment?",
+      "polish": "Proszę, mogę ci pomóc na chwilę?",
+      "transliteration": "pro-she, mo- gę tsih pomoch na chwilę?",
+      "category": "Kindness",
+      "generated_at": "2026-11-24T04:31:01.352836"
+    },
+    {
+      "english": "Take this, it might be useful.",
+      "polish": "Weź to, to może się przydać.",
+      "transliteration": "vez to, to mo-zhe sie pry-dać",
+      "category": "Kindness",
+      "generated_at": "2026-11-24T04:31:01.352855"
+    },
+    {
+      "english": "I’m sorry, I didn’t mean that.",
+      "polish": "Przepraszam, nie chciałem tego.",
+      "transliteration": "pshe-pra-szam, ne chcia-łem te-go",
+      "category": "Kindness",
+      "generated_at": "2026-11-24T04:31:01.352857"
+    },
+    {
+      "english": "You did great, really, keep going.",
+      "polish": "Naprawdę, świetnie ci poszło, dalej!",
+      "transliteration": "na-praw-dę, shvet-nie tsih po-szło, da-lei",
+      "category": "Kindness",
+      "generated_at": "2026-11-24T04:31:01.352859"
+    },
+    {
+      "english": "Would you like some help with that?",
+      "polish": "Chcesz, żebym pomógł z tym?",
+      "transliteration": "chyesh, zhe-by-m pomog-ł z tym",
+      "category": "Kindness",
+      "generated_at": "2026-11-24T04:31:01.352860"
     }
   ],
-  "last_updated": "2026-11-24T03:13:33.984649"
+  "last_updated": "2026-11-24T04:31:01.352868"
 }
