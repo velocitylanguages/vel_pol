@@ -16189,7 +16189,42 @@
       "transliteration": "Dzhysh dyaylam yesh-chyivlye, ne ideal-nye",
       "category": "Purpose",
       "generated_at": "2026-11-25T21:07:16.566649"
+    },
+    {
+      "english": "Thank you for your patience today.",
+      "polish": "Dziękuję za twoją cierpliwość dzisiaj.",
+      "transliteration": "jyen-koo-yeh za tvoh-yah tshehr-pli-voosts dzish-yay",
+      "category": "Gratitude",
+      "generated_at": "2026-11-25T23:01:30.307222"
+    },
+    {
+      "english": "I’m grateful for your quick reply.",
+      "polish": "Dziękuję za twoją szybką odpowiedź.",
+      "transliteration": "jyen-koo-yeh za tvoh-yah sheeb-kah oh-poh-vehdź",
+      "category": "Gratitude",
+      "generated_at": "2026-11-25T23:01:30.307239"
+    },
+    {
+      "english": "Thanks for making space for me.",
+      "polish": "Dziękuję, że zrobiłeś dla mnie miejsce.",
+      "transliteration": "jyen-koo-yeh, zhe zroh-bee-ehs tswa mee myesh-cheh",
+      "category": "Gratitude",
+      "generated_at": "2026-11-25T23:01:30.307242"
+    },
+    {
+      "english": "I appreciate your kind honesty, too.",
+      "polish": "Doceniam twoją życzliwą szczerość.",
+      "transliteration": "doh-tshe-nyam tvoh-yah yihch-lee-vah shcheh-roshch",
+      "category": "Gratitude",
+      "generated_at": "2026-11-25T23:01:30.307244"
+    },
+    {
+      "english": "Thank you for listening without judgment.",
+      "polish": "Dziękuję, że słuchasz bez oceniania.",
+      "transliteration": "jyen-koo-yeh, zhe swoo-chash bez ohts-eh-nyah-nih-ya",
+      "category": "Gratitude",
+      "generated_at": "2026-11-25T23:01:30.307246"
     }
   ],
-  "last_updated": "2026-11-25T21:07:16.566650"
+  "last_updated": "2026-11-25T23:01:30.307248"
 }
