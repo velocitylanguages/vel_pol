@@ -2,9 +2,9 @@ name: Velocity Polish - Storybook Publish
 
 on:
   schedule:
-    - cron: '00:57 * * *'
-    - cron: '08:57 * * *'
-    - cron: '16:57 * * *'
+    - cron: '57 0 * * *'
+    - cron: '57 8 * * *'
+    - cron: '57 16 * * *'
   workflow_dispatch:
     inputs:
       category:
